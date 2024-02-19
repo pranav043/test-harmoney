@@ -6,6 +6,12 @@ Problem Statement - https://gist.github.com/0xKD/e0478bbc73553804dc76df31df3a17f
 
 You can checkout the project live: https://chattboard.vercel.app/
 
+## Screenshots
+
+App Screenshot
+
+![App Screenshot](https://i.ibb.co/F7ZKhRN/test-harmoney.png)
+
 ## Run Locally
 
 Clone the project
